@@ -228,6 +228,12 @@ main {
   font-family: Georgia;
 }
 
+.resume .section {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
 /* CSS for contact form */
 
 label {
